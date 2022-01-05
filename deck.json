@@ -1,0 +1,205 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "5badbda4-6e29-11ec-b708-acde48001122",
+    "deck_config_uuid": "fedbb5ce-1949-11ec-9bd9-6c4008a25dc6",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": false,
+            "crowdanki_uuid": "fedbb5ce-1949-11ec-9bd9-6c4008a25dc6",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 30,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    5.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 10,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": false,
+            "rev": {
+                "bury": true,
+                "ease4": 1.44,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 0.55,
+                "maxIvl": 90,
+                "minSpace": 1,
+                "perDay": 20
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Programmer's Brain (Felienne Hermans)",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\usepackage[utf8]{inputenc}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-5b4e1",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which different sources can a confusion while&nbsp;reading code result from",
+                "Lack of:<br><ul><li>knowledge (of syntax, algorithm, or domain)<br></li><li>information about (or access to) particular details needed for understanding</li><li>cognitive processing power, because the code is too complicated for your brain</li></ul>"
+            ],
+            "guid": "d`/Uler_,p",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lack of knowledge can be remedied by …&nbsp;",
+                "… learning&nbsp;<span style=\"color: rgb(38, 38, 38);\">relevant facts and committing them to&nbsp;</span>LTM."
+            ],
+            "guid": "nPe!Wr^in&",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does \"LTM\" mean?",
+                "Long-Term Memory"
+            ],
+            "guid": "ePh$ohAw|>",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does \"STM\" mean?",
+                "Short-Term Memory"
+            ],
+            "guid": "f8I4p9m$~`",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does \"WM\" mean &amp; what is combined of?",
+                "Working Memory; Combines information from L- &amp; STM."
+            ],
+            "guid": "4pj{*:M5>",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which memory type often overrides which other type? Example?",
+                "Not noticing spelling mistakes while reading shows that LTM can override STM."
+            ],
+            "guid": "Qaj:$ETgGZ",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What to do 1st to resolve confusion when reading code?",
+                "Identify which of the 3 common sources it results from: lack of knowledge, information or processing power."
+            ],
+            "guid": "yUc<>}u4`+",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where does the brain store the meaning of code syntax or keywords, concepts, and algorithms?",
+                "In LTM, after repeated practice or learning."
+            ],
+            "guid": "scDI6Wsp`b",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": []
+        }
+    ]
+}
