@@ -102,7 +102,10 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "Computer programming -- Study and teaching",
+                "Cognitive learning"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -129,7 +132,9 @@
             ],
             "guid": "d`/Uler_,p",
             "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
-            "tags": []
+            "tags": [
+                "chapter-1"
+            ]
         },
         {
             "__type__": "Note",
@@ -139,7 +144,9 @@
             ],
             "guid": "nPe!Wr^in&",
             "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
-            "tags": []
+            "tags": [
+                "chapter-1"
+            ]
         },
         {
             "__type__": "Note",
@@ -149,7 +156,9 @@
             ],
             "guid": "ePh$ohAw|>",
             "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
-            "tags": []
+            "tags": [
+                "chapter-1"
+            ]
         },
         {
             "__type__": "Note",
@@ -159,7 +168,9 @@
             ],
             "guid": "f8I4p9m$~`",
             "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
-            "tags": []
+            "tags": [
+                "chapter-1"
+            ]
         },
         {
             "__type__": "Note",
@@ -169,7 +180,9 @@
             ],
             "guid": "4pj{*:M5>",
             "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
-            "tags": []
+            "tags": [
+                "chapter-1"
+            ]
         },
         {
             "__type__": "Note",
@@ -179,7 +192,9 @@
             ],
             "guid": "Qaj:$ETgGZ",
             "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
-            "tags": []
+            "tags": [
+                "chapter-1"
+            ]
         },
         {
             "__type__": "Note",
@@ -189,7 +204,9 @@
             ],
             "guid": "yUc<>}u4`+",
             "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
-            "tags": []
+            "tags": [
+                "chapter-1"
+            ]
         },
         {
             "__type__": "Note",
@@ -199,7 +216,9 @@
             ],
             "guid": "scDI6Wsp`b",
             "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
-            "tags": []
+            "tags": [
+                "chapter-1"
+            ]
         }
     ]
 }
