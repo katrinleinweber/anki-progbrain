@@ -471,6 +471,188 @@
             "tags": [
                 "chapter-3"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which types of cognitive load are to be distinguished (according to John Sweller)",
+                "Intrinsic, extraneous &amp; germane"
+            ],
+            "guid": "nH.GQ87yBH",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is intrinsic (cognitive) load?",
+                "How complex a problem is in itself. AKA \"inherent complexity\" or \"essential\" (Brooks)"
+            ],
+            "guid": "fQ>+eq?6S9",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is extraneous (cognitive) load?",
+                "Additional problems, like distractions, unclear problem statement. AKA \"accidental complexity\" (Brooks)"
+            ],
+            "guid": "o=K_XU+izo",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is germane (cognitive) load?",
+                "AKA \"relevant\". Effort your brain needs to exert to store information back to the LTM."
+            ],
+            "guid": "%/nCI,23t",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-10",
+                "chapter-4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When your WM is overloaded, which process is impacted? Even for problems you have solved!",
+                "Storing knowledge about the solution in LTM, because intrinsic and/or extraneous load (cognitive) load left no capacity to overcome germane load."
+            ],
+            "guid": "Mxcm#t6#|m",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-10",
+                "chapter-4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How to analyze unfamiliar code, that makes you feel a high cognitive load?",
+                "Per line, note down whether it causes intrinsic or extraneous load."
+            ],
+            "guid": "J:{F3n^.wA",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which cognitive load type is variable for different people's prior knowledge level, different style of coding the same problem, etc.?",
+                "Extraneous load, because it is modulated by those different, prior experiences."
+            ],
+            "guid": "m/-wbpzFUV",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which refactorings can reduce extraneous load while reading code? And why?",
+                "inlining &amp; reordering, to reduce delocalisation &amp; ease strain on WM"
+            ],
+            "guid": "AUYU3RMHNr",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which tension exists between the different types of refactoring?",
+                "\"Normal\" refactoring aims to increase maintainability, but that often increases delocalisation, which hinders readability. \"Cognitive\" refactoring is the reverse."
+            ],
+            "guid": "FC`vOkH+Q!",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which tactics are supported by maintaining a personal \"understanding\" branch?",
+                "<ul><li style=\"text-align: left;\">cognitive refactorings</li><li style=\"text-align: left;\">adding comments</li><li style=\"text-align: left;\">replacing unfamiliar language constructs</li></ul>"
+            ],
+            "guid": "CGbxJ/sD51",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which language constructs are often unfamiliar &amp; could thus be temporarily refactored to assist WM?",
+                "<ul><li style=\"text-align: left;\">ternary operator &lt;=&gt; if/else block</li><li style=\"text-align: left;\">lambda &lt;=&gt; regular function</li><li style=\"text-align: left;\">list comprehension &lt;=&gt; for loop</li></ul>However, investing in committing those constructs to LTM is advisable (flashcards with both variants)."
+            ],
+            "guid": "pQ?afPZ%G1",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How to create a dependency graph?",
+                "<ol><li style=\"text-align: left;\">highlight all variables &amp; link same or similar ones</li><li style=\"text-align: left;\">highlight all function/methods calls &amp; link them to their definition/declaration<br></li><li style=\"text-align: left;\">highlight all instances &amp; link them to their classes</li></ol>"
+            ],
+            "guid": "GEAk&(M1Mr",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do dependency graphs &amp; state tables help with?",
+                "Reducing cognitive load on your WM. Esp. when drawing them on a printed copy of the code."
+            ],
+            "guid": "qwRO>Lc`]l",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When &amp; how to create a state table?",
+                "<div style=\"text-align: left;\">For calculations that need to be understood.</div><ol><li style=\"text-align: left;\">list all variables as table columns</li><li style=\"text-align: left;\">mentally compile/trace/execute step-by-step</li><li style=\"text-align: left;\">add one row per step &amp; fill all variable values</li></ol>"
+            ],
+            "guid": "NaM#d.P7Gt",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a state table, which kinds of execution steps can represent one row?",
+                "<ul><li style=\"text-align: left;\">trivial code chunk</li><li style=\"text-align: left;\">loop iteration</li><li style=\"text-align: left;\">if/else branch</li><li style=\"text-align: left;\">each line in terse code</li></ul>"
+            ],
+            "guid": "hBmxJOZ{yy",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-4"
+            ]
         }
     ]
 }
