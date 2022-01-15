@@ -315,6 +315,162 @@
             "tags": [
                 "chapter-2"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What's one strategy to avoid distractions while reading code?",
+                "Committing knowledge into LTM, so that supplementing STM with looking up things is required less often."
+            ],
+            "guid": "L}G387Ui4r",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Because programming language have so much fewer keywords than natural languages ...",
+                "... flashcards are even more effective for learning the former."
+            ],
+            "guid": "BS&!K;Y_*U",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What to <i>also</i> do when googling some thing you didn't know?",
+                "Immediately creating a flashcard for that thing."
+            ],
+            "guid": "y|zqYd0Tv+",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to which pattern does the LTM decay?",
+                "Exponentially, within hours to a few days to ca. 25% of once-exposed details."
+            ],
+            "guid": "ukQl#+2;CH",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div style=\"text-align: center;\">Which repetition patterns are generally more effective?</div>",
+                "Fewer repetitions per session, but longer periods of time in between (days to weeks)."
+            ],
+            "guid": "F~{U*%a0p!",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is fine to do as rarely as once per months to keep LTM trained?",
+                "Practice with your flashcard set."
+            ],
+            "guid": "QDn}5$=n?J",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are \"retrieval practice\" and \"elaboration\" both?",
+                "Memory strengthening techniques for LTM (i.e. pathways and connections within it)."
+            ],
+            "guid": "PY+y7(>u}1",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What's the technique of actively trying to remember something called?",
+                "retrieval practice"
+            ],
+            "guid": "h(!enKMhep",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What's the technique to actively connecting new knowledge to existing memories called?",
+                "elaboration"
+            ],
+            "guid": "NcH2%w]AQd",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the limit on LTM?",
+                "retrieval strength (limiting factor) &amp; storage strength"
+            ],
+            "guid": "E^P|5ROFHz",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is a modern vicious cycle in day-to-day work?",
+                "<ul><li style=\"text-align: left;\">easy look-up of details</li><li style=\"text-align: left;\">low incentive to learn by heart</li><li style=\"text-align: left;\">retrieval strength remains weak</li><li style=\"text-align: left;\">details need to be looked up again</li></ul>"
+            ],
+            "guid": "vqCvMs>,f{",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which memory strengthening technique is better for complex concepts?",
+                "Elaboration: active reflection of information and their connection to other knowledge."
+            ],
+            "guid": "Juw!{ZlJ*E",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which points to elaborate when learning a new programming<br>concept?",
+                "<ol><li style=\"text-align: left;\">related concepts</li><ul><li style=\"text-align: left;\">Why related? What's the association (type)?</li><li style=\"text-align: left;\">Does it share syntax?</li><li style=\"text-align: left;\">Used in a similar contexts?</li></ul><li style=\"text-align: left;\">What other code variants would achieve the same goal?</li><li style=\"text-align: left;\">Same concept in other programming languages? Examples that support similar operations? Differences?</li><li style=\"text-align: left;\">Fits a certain paradigm, domain, library, etc.?</li></ol>"
+            ],
+            "guid": "o!d5C;azqd",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-3"
+            ]
         }
     ]
 }
