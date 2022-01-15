@@ -219,6 +219,102 @@
             "tags": [
                 "chapter-1"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What helps chunking, and thus the code reader's STM?",
+                "<ul><li style=\"text-align: left;\">Design patterns</li><li style=\"text-align: left;\">High-level comments</li></ul>"
+            ],
+            "guid": "f|OMUm57eR",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why do unusual variable names, or too low-level comments, or seemingly random code structuring hinder reading?",
+                "Prevents the brain's pattern matching and/or the detection of chunks. This disrupts LTM's ability to assist STM."
+            ],
+            "guid": "pH/(qnwM^V",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the limitations of the STM?",
+                "<ul><li style=\"text-align: left;\">emptied after ca. 30sec</li><ul><li style=\"text-align: left;\">and upon task completion (or context switch)</li></ul><li style=\"text-align: left;\">size of only a few items (&lt;10)</li></ul>"
+            ],
+            "guid": "BuUA3B<f3C",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What advantage does chunking provide?",
+                "Fewer slots are required in STM, because only concept \"pointers\" are stored. Details of those concepts are retrieved from LTM."
+            ],
+            "guid": "OG)(8<KpLq",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What consequence do STM limits have for onboarding?",
+                "Focus should be on going slowly, and investing in LTM training for each new concept, keyword, etc."
+            ],
+            "guid": "gE;$n+w5RS",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is iconic memory &amp; how to access it?",
+                "A \"buffer\" between eyes &amp; STM. Access it by glancing only briefly at code, and then recalling over-all structure (deep nesting, outstanding lines, gaps, blobs, etc.)."
+            ],
+            "guid": "LW;wk,#;5g",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What should a beacon help with?",
+                "Provide an \"Ah-ha!\" moment to readers and/or help in confirming or refuting a hypothesis about the code they might have formed."
+            ],
+            "guid": "Cs*h+]=Iix",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which beacon types are common?",
+                "<ul><li style=\"text-align: left;\">simple: meaningful names</li><li style=\"text-align: left;\">compound: hint at semantic meaning of what the simple beacons execute together</li></ul>"
+            ],
+            "guid": "kA`4%lYL2g",
+            "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
+            "tags": [
+                "chapter-2"
+            ]
         }
     ]
 }
