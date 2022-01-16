@@ -1,6 +1,7 @@
-# Flashcards for Felienne Hermans' book "The Programmer's Brain"
+# Flashcards for "The Programmer's Brain"
 
-[Published by Manning](https://www.manning.com/books/the-programmers-brain)
+A book by [Felienne Hermans][fh] and [published by Manning][ma]
+about what every programmer needs to know about cognition.
 
 ## Installation
 
@@ -10,15 +11,17 @@
 ## Usage
 
 Import this repo into Anki as documented in [Stvad/CrowdAnki](cac)
-to begin using the card deck (and adapting the cards to your needs).
+to begin using the card deck (and adapting it to your needs).
 
 ## Contributing
 
-P/MRs are welcome! For major changes, please open an issue first to discuss what you would like to change.
+PRs are welcome! For major changes, please open an issue first to discuss your plan.
 
-## License
 
-(c) 2021 by Manning Publications Co. All rights reserved.
+## License (c) 2021 by [Manning Publications][ma] Co. All rights reserved.
+
 [cac]: https://github.com/Stvad/CrowdAnki#to-start-working-on-the-deck-your-collaborators-need-to
 [cad]: https://ankiweb.net/shared/info/1788670778
 [cae]: https://github.com/Stvad/CrowdAnki#export
+[fh]: https://www.universiteitleiden.nl/en/staffmembers/felienne-hermans
+[ma]: https://www.manning.com/books/the-programmers-brain
