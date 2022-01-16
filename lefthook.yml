@@ -12,3 +12,8 @@ pre-commit:
         else
           exit 0
         fi
+    normalize-spaces:
+      skip:
+        - merge
+        - rebase
+      run: sed -i '' 's/&nbsp;/ /g' deck.json

@@ -127,7 +127,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Which different sources can a confusion while&nbsp;reading code result from",
+                "Which different sources can a confusion while reading code result from",
                 "Lack of:<br><ul><li>knowledge (of syntax, algorithm, or domain)<br></li><li>information about (or access to) particular details needed for understanding</li><li>cognitive processing power, because the code is too complicated for your brain</li></ul>"
             ],
             "guid": "d`/Uler_,p",
@@ -139,8 +139,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Lack of knowledge can be remedied by …&nbsp;",
-                "… learning&nbsp;<span style=\"color: rgb(38, 38, 38);\">relevant facts and committing them to&nbsp;</span>LTM."
+                "Lack of knowledge can be remedied by …",
+                "… learning relevant facts and committing them to LTM."
             ],
             "guid": "nPe!Wr^in&",
             "note_model_uuid": "fedbe580-1949-11ec-9bd9-6c4008a25dc6",
