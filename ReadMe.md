@@ -10,7 +10,7 @@ about what every programmer needs to know about cognition.
 
 ## Usage
 
-Import this repo into Anki as documented in [Stvad/CrowdAnki](cac)
+Import this repo into Anki as documented in [Stvad/CrowdAnki][cac]
 to begin using the card deck (and adapting it to your needs).
 
 ## Contributing
